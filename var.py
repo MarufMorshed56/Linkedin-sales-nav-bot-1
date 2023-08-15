@@ -20,8 +20,8 @@ stop = False
 scrolling_step = 0
 try_count = 5
 
-email = "jawadkhan@hotmail.co.uk"
-password = "TLpassword@111"
+email = ""
+password = ""
 filename = "demo.csv"
 delay = 0
 page_number = 30
